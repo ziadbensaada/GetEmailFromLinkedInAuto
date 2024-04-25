@@ -46,6 +46,7 @@ Install and run the latest code using [Poetry](https://python-poetry.org/docs/#i
 ```bash
 git clone https://github.com/m8sec/subscraper
 cd subscraper
+//pip install poetry
 poetry install
 poetry run crosslinked -h
 ```
@@ -114,7 +115,13 @@ python3 crosslinked.py -f 'domain\{f}{last}' -t 15 -j 2 company_name
 ```
 > ⚠️ For best results, use the company name as it appears on LinkedIn `"Target Company"` not the domain name.
 
-
+## Check Emails CollectedZ
+```bash
+cat names.txt
+wc -l names.txt  
+cat names.txt | sort| uniq -u >namesFinal.txt                            
+wc -l namesFinal.txt
+```
 ## Screenshots
 ![](https://user-images.githubusercontent.com/13889819/190488899-0f4bea2d-6c31-422f-adce-b56f7be3d906.png)
 
