@@ -3,9 +3,11 @@
 </div>
 
 <p align="center">
-    <a href="https://www.twitter.com/m8sec"><img src="https://img.shields.io/badge/Twitter-@m8sec-blue?style=plastic&logo=twitter"/></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/ziad-ben-saada-850219226/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ziad%20Ben%20Saada-blue?style=plastic&logo=linkedin"/>
+    </a>&nbsp;&nbsp;
     <a href="/LICENSE"><img src="https://img.shields.io/badge/License-GPL%20v3.0-green.svg?style=plastic"/></a>&nbsp;&nbsp;
-    <a href="https://github.com/sponsors/m8sec"><img src="https://img.shields.io/badge/Sponsor-GitHub-red?style=plastic&logo=github"/></a>&nbsp;
+    <a href="https://github.com/ziadbensaada"><img src="https://img.shields.io/badge/Sponsor-GitHub-red?style=plastic&logo=github"/></a>&nbsp;
 </p>
 
 
