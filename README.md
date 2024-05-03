@@ -55,7 +55,7 @@ poetry run crosslinked -h
 Install the most recent code from GitHub:
 ```bash
 git clone https://github.com/ziadbensaada/GetEmailFromLinkedInAuto/
-cd crosslinked
+cd GetEmailFromLinkedInAuto
 pip3 install .
 ```
 
