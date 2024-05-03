@@ -54,7 +54,7 @@ poetry run crosslinked -h
 ### Python
 Install the most recent code from GitHub:
 ```bash
-git clone https://github.com/m8sec/crosslinked
+git clone https://github.com/ziadbensaada/GetEmailFromLinkedInAuto/
 cd crosslinked
 pip3 install .
 ```
